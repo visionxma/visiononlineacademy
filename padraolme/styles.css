@@ -103,7 +103,7 @@ body {
 .hero-image-container {
     width: 100%;
     height: 100%;
-    background-image: url('heropc.jpg');
+    background-image: url('../assets/images/BANNER.jpg');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
@@ -543,7 +543,7 @@ body {
     }
 
     .hero-image-container {
-        background-image: url('hero.jpg');
+        background-image: url('../assets/images/BANNER.jpg');
         background-position: center;
     }
 
